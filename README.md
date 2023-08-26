@@ -1,7 +1,7 @@
 <h1 align="center">Noam Regev</h1>
 <h3 align="center">Computer Science Student at The Hebrew University of Jerusalem</h3>
 <br>
-<h4 align="center"> 👨‍💻 All of my projects are available at https://nirblo50.github.io/Portfolio/ </h4>
+<h4 align="center"> 👨‍💻 All of my projects are available at https://regevnoam1.github.io/Portfolio/ </h4>
 
  
 
@@ -25,7 +25,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/react-js.svg" title="react-js" alt="react-js" width="60" height="60"/>
 </p>
 
 <h2> </h2>
