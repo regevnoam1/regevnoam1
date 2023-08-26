@@ -38,11 +38,8 @@
 
 <h2 align="center"> Some of my projects: </h2>
  <p align='center'>
-   <a href="https://github.com/nirblo50/Card-game"><img src="assets/card_game.gif" height="170"></a>&nbsp&nbsp&nbsp&nbsp
-   <a href="https://github.com/nirblo50/MapleStrory_Themed_Game"><img src="assets/maple_story.gif" height="170"></a>&nbsp&nbsp&nbsp&nbsp
-   <a href="https://github.com/nirblo50/DodgeTheAlien"><img src="assets/dodge_the_alien.gif" height="170"></a>&nbsp&nbsp&nbsp&nbsp
-   <a href="https://github.com/nirblo50/FeedTheHadar"><img src="assets/feed_hadar.gif" height="170"></a>&nbsp&nbsp&nbsp&nbsp
-   <a href="https://github.com/nirblo50/Web-project-Blog-"><img src="assets/web.gif" height="170"></a>
+   <a href="https://github.com/regevnoam1/OOP-Skeleton-Game"><img src="assets/skeleton_gif.gif" height="170"></a>&nbsp&nbsp&nbsp&nbsp
+
  </p>
 
 
