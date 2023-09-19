@@ -41,6 +41,9 @@
    <a href="https://github.com/regevnoam1/OOP-Skeleton-Game"><img src="assets/skeleton_gif.gif" height="170"></a>&nbsp&nbsp&nbsp&nbsp
 
  </p>
+<p align='center'>
+   <a href="https://github.com/regevnoam1/MyBlog"><img src="assets/skeleton_gif.gif" height="170"></a>&nbsp&nbsp&nbsp&nbsp
 
+ </p>
 
   <br>
