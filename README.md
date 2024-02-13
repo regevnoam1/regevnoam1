@@ -40,6 +40,6 @@
  <div style="text-align: center;">
     <a href="https://github.com/regevnoam1/OOP-Skeleton-Game"><img src="assets/skeleton_gif.gif" height="170"></a>
     <a href="https://github.com/regevnoam1/MyBlog"><img src="assets/ezgif.com-video-to-gif.gif" height="170"></a>
-    <a href="https://github.com/regevnoam1/FruitShooter"><img src="assets/FruitShooter.gif" height="170"></a>
+    <a href="https://github.com/regevnoam1/FruitShooter"><img src="assets/Fruit Shooter.gif" height="170"></a>
 </div>
   <br>
