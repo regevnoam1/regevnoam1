@@ -43,7 +43,7 @@
 <p align='center'>
    <a href="https://github.com/regevnoam1/MyBlog"><img src="assets/ezgif.com-video-to-gif.gif" height="170"></a>&nbsp&nbsp&nbsp&nbsp
  </p>
-<p align='right'>
+<p align='center'>
    <a href="https://github.com/regevnoam1/FruitShooter"><img src="Assets/FruitShooter.gif" height="170"></a>&nbsp&nbsp&nbsp&nbsp
  </p>
 
